@@ -1,6 +1,6 @@
 ### Hey I'm Josh
 
-
+I am a Computer Engineer that is studying at the University of California in Santa Barbara. I am interested in PCB design, object oriented programming, and making stuff.
 
 <!--
 **TG6S85/TG6S85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
